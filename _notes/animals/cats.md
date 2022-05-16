@@ -1,5 +1,5 @@
 ---
-title: A note about cats
+title: A note about katter
 ---
 
 This is a second note with a poem with cats. 
