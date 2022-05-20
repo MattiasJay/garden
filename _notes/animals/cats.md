@@ -1,8 +1,8 @@
 ---
-title: A note about katter
+title: A note about katter yo
 ---
 
-This is a second note with a poem with cats. 
+This is a second note with a poem with cats yo. 
 
 Here's a link to a note that explains why it's important to [[move your body every day]].
 
