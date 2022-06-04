@@ -7,7 +7,7 @@ permalink: /
 <div class="container main-content tc mt4">
 <center>
 <h1 class="h1">Hämta pinnar</h1>
-<h2 class="h2"En digital trädgård</h2>
+<h2 class="h2">En digital trädgård</h2>
 </center>
 <!-- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
