@@ -26,28 +26,28 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
  -->
 <style>
   * {
-    box-sizing: border-box;
+    box-sizing: border-box  !important;
 }
   body{
-    display: block;
-    margin: 0;
-    padding: 3rem 1rem 3rem;
-    font: 16px/1.4 system-ui, 'Helvetica', sans-serif;
-    -webkit-font-smoothing: antialiased;
+    display: block !important;
+    margin: 0 !important;
+    padding: 3rem 1rem 3rem !important;
+    font: 16px/1.4 system-ui, 'Helvetica', sans-serif !important;
+    -webkit-font-smoothing: antialiased !important;
 
 
   }
   .wrapper{
-        max-width: 600px;
-        padding-top: 0.2rem;
-        font-size: 1.13em;
-        margin-top: 4rem;
-        text-align: center;
-        margin: auto;
+        max-width: 600px !important;
+        padding-top: 0.2rem !important;
+        font-size: 1.13em !important;
+        margin-top: 4rem !important;
+        text-align: center !important;
+        margin: auto !important;
   }
 
 div {
-    display: block;
+    display: block !important;
 }
 
 
@@ -55,22 +55,22 @@ div {
 
   .about-link{
     border-bottom: 1px solid #ea4e4e !important;
-        text-decoration: none;
+        text-decoration: none !important;
         background-color: white !important;
-        color: black;
-            font-size: 20px;
-    font-weight: 450;
-        font-size: 1.2em;
+        color: black !important;
+            font-size: 20px !important;
+    font-weight: 450 !important;
+        font-size: 1.2em !important;
   }
   .box{
-    border-radius: 10px;
-    background-color: #FFF4EC;
-    padding: 3rem 2rem;
-    text-align: center;
-    margin-top: 3rem;
+    border-radius: 10px !important;
+    background-color: #FFF4EC !important;
+    padding: 3rem 2rem !important;
+    text-align: center !important;
+    margin-top: 3rem !important;
   }
   .subscribe-email {
-    text-align: center;
+    text-align: center !important;
   }
   .input{
         border: 1px solid #ccc;
@@ -129,20 +129,25 @@ div {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+code {
+    background: #f5f5f5;
+    padding: 0.1em 0.2em;
+    border-radius: 4px;
+}
 body {
-  display: block;
-    margin: 0;
-    padding: 3rem 1rem 3rem;
-    font: 16px/1.4 system-ui, 'Helvetica', sans-serif;
-    color: var(--default-text);
-    background-color: var(--page-bg);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  display: block !important;
+    margin: 0 !important;
+    padding: 3rem 1rem 3rem !important;
+    font: 16px/1.4 system-ui, 'Helvetica', sans-serif !important;
+    color: var(--default-text) !important;
+    background-color: var(--page-bg) !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
 }
 
 p {
-    color: #555555;
-    margin-bottom: 0.5rem;
+    color: #555555 !important;
+    margin-bottom: 0.5rem !important;
 }
 
 </style>

@@ -7,3 +7,192 @@ permalink: /about
 *This is an about page.*
 
 Feel free to tell the world about what you love! 😍
+
+<style type="text/css">
+  div.highlight {
+    display: grid;
+}
+  .highlight {
+    background: #f8f8f8;
+    padding: 1px 1em;
+    border-radius: 3px;
+    font-size: 1em;
+    font-size: 14px;
+    overflow: auto;
+    margin: 1em -1em;
+}
+.highlight .s1 {
+    color: #d14;
+}
+.highlight .c1 {
+    color: #999988;
+    font-style: italic;
+}
+.highlight .k {
+    font-weight: bold;
+}
+.highlight .nf {
+    color: #990000;
+    font-weight: bold;
+}
+.highlight .s2 {
+    color: #d14;
+}
+
+  img {
+    max-width: 100% !important;
+    display: block !important;
+    margin: 0 auto !important;
+    max-height: 75vh !important;
+    border-radius: 4px !important;
+}
+  a.internal-link:after,a.footnote:after,a.reversefootnote:after{content:"" !important}
+  * {
+    box-sizing: border-box !important;
+}
+  body{
+    display: block !important;
+    margin: 0 !important;
+    padding: 3rem 1rem 3rem !important;
+    font: 16px/1.4 system-ui, 'Helvetica', sans-serif !important;
+    -webkit-font-smoothing: antialiased !important;
+
+
+  }
+  blockquote {
+    padding: 1.5em !important;
+    margin: 0 !important;
+    font-size: 0.88em !important;
+    background: #f6f6f6 !important;
+    border-radius: 4px !important;
+}
+.backlink-box {
+    background: #f6f6f6 !important;
+    padding: 1em !important;
+    border-radius: 4px !important;
+}
+  .internal-link{
+     text-decoration: none !important;
+  }
+  content a.internal-link {
+    border-color: #8b88e6 !important;
+    background-color: #efefff !important;
+}
+  a:link, a:visited {
+    color: var(--dark-grey);
+    border-bottom: 1px solid var(--light-grey);
+    text-decoration: none !important;
+    transition: border-color 0.3s !important;
+}
+  .wrapper{
+        max-width: 600px !important;
+        padding-top: 0.2rem !important;
+        font-size: 1.13em !important;
+        margin-top: 4rem !important;
+        margin: auto !important;
+  }
+
+div {
+    display: block !important;
+}
+
+
+
+
+  .about-link{
+    border-bottom: 1px solid #ea4e4e !important;
+        text-decoration: none;
+        background-color: white !important;
+        color: black;
+            font-size: 20px;
+    font-weight: 450;
+        font-size: 1.2em;
+  }
+  .box{
+    border-radius: 10px;
+    background-color: #FFF4EC;
+    padding: 3rem 2rem;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  .subscribe-email {
+    text-align: center;
+  }
+  .input{
+        border: 1px solid #ccc;
+    background-color: white;
+        max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+        width: 100%;
+    appearance: none !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    border-radius: 3px;
+    line-height: 36px;
+    padding: 6px 14px;
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 20%);
+
+  }
+  .button {
+    max-width: 400px;
+    border: 1px solid #ea4e4e;
+    cursor: pointer;
+    background-color: #ea4e4e;
+    color: #fff !important;
+    white-space: nowrap;
+    width: 100%;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    border-radius: 3px;
+    line-height: 36px;
+    padding: 6px 14px;
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 20%);
+}
+.h2 {
+    display: block;
+    font-size: 1.7em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+        margin-top: 0px;
+}
+.h1{
+  font-size: 2.6em;
+      display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+  display: block;
+    margin: 0;
+    padding: 3rem 1rem 3rem;
+    font: 16px/1.4 system-ui, 'Helvetica', sans-serif;
+    color: var(--default-text);
+    background-color: var(--page-bg);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+    color: #555555;
+    margin-bottom: 0.5rem;
+}
+code {
+    background: #f5f5f5;
+    padding: 0.1em 0.2em;
+    border-radius: 4px;
+}
+</style>
