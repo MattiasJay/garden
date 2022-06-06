@@ -1,4 +1,21 @@
-<!-- <div>
-    <a class="internal-link" href="{{ site.baseurl }}/"><b>{{ site.title }}</b></a>
-</div>
- -->
+<nav>
+  <a class="internal-link" style="border-bottom: 0px !important;" href="{{ site.baseurl }}/">Substation Theme</a>
+  <a class="internal-link" style="float: right;padding-right: 15px;" href="/about">About</a>
+</nav>
+
+<style type="text/css">
+      .internal-link{
+     text-decoration: none !important;
+  }
+  content a.internal-link {
+    border-color: #8b88e6 !important;
+    background-color: #efefff !important;
+}
+  a.internal-link:after,a.footnote:after,a.reversefootnote:after{content:"" !important}
+  a:link, a:visited {
+    color: var(--dark-grey);
+    border-bottom: 1px solid var(--light-grey);
+    text-decoration: none !important;
+    transition: border-color 0.3s !important;
+}
+</style>
