@@ -12,7 +12,7 @@ This is your first note. You'll find it in the [[your first note]] directory.
 a picture
 
 
-<img src="/assets/image.jpg"/>
+<img src="/assets/Jules_Bastien-Lepage_-_Le_Père_Jacques_(The_Wood_Gatherer)_-_1881.jpeg"/>
 
 You can also ==highlight some content== by wrapping it with `==`.
 
