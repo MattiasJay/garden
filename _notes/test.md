@@ -5,7 +5,7 @@ title: Final test
 
 ### Final test
 
-This is your first note. You'll find it in the [[your first note]] directory. 
+lets see if I can link to the [[ahsan]] note. 
 
 ### Link syntax
 
