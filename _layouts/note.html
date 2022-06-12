@@ -2,14 +2,14 @@
 layout: default
 ---
 <nav>
-  <a class="internal-link" style="border-bottom: 0px !important;" href="{{ site.baseurl }}/">Substation Theme</a>
-  <a class="internal-link" style="float: right;padding-right: 15px;" href="/about">About</a>
+  <a class="internal-link" style="border-bottom: 0px !important;" href="{{ site.baseurl }}/">Hämta pinnar</a>
+  <a class="internal-link" style="float: right;padding-right: 15px;" href="/about">Om 🌱</a>
 </nav>
 <article>
   <div>
     <h1 class="h1">{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      Uppdaterades senast {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
@@ -47,7 +47,7 @@ layout: default
 
 <hr>
 <br>
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+<p>Så här hänger anteckningarna i trädgården ihop. Tryck på en av dem för att läsa den.</p>
 
 {% include notes_graph.html %}
 
