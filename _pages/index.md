@@ -13,9 +13,9 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p> -->
 
-<form  class="box" action="https://tinyletter.com/hamtapinnar" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/hamtapinnar', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><h2 class="mt0 h2">Subscribe</h2><p><label for="tlemail">Get the Substation Theme newsletter and unlock access to<br> member-only content.</label></p><p><input class="input subscribe-email" type="text"  name="email" id="tlemail"  placeholder="your@email.com"/></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" class="button" /><!-- <p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p> --></form>
+<form  class="box" action="https://tinyletter.com/hamtapinnar" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/hamtapinnar', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><h2 class="mt0 h2">Prenumerera</h2><p><label for="tlemail">Uppdateringar och reflektioner, ungefär som sticklingar.<br> member-only content.</label></p><p><input class="input subscribe-email" type="text"  name="email" id="tlemail"  placeholder="din@epost.se"/></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" class="button" /><!-- <p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p> --></form>
 <br>
-<p style="text-align: center;"><a class="internal-link about-link" href="/about">Read past issues →</a></p>
+<p style="text-align: center;"><a class="internal-link about-link" href="/about">Utforska trädgården →</a></p>
 
 </div>
 <!-- 
