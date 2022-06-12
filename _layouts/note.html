@@ -3,19 +3,17 @@ layout: default
 ---
 <nav>
   <a class="internal-link" style="border-bottom: 0px !important;" href="{{ site.baseurl }}/">Hämta pinnar</a>
-  <a class="internal-link" style="float: right;padding-right: 15px;" href="/about">Om 🌱</a>
+  <a class="internal-link" style="float: right;padding-right: 15px;" href="/about">Om</a>
 </nav>
- </div>
- </div>
 <article>
   <div>
     <h1 class="h1">{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Uppdaterades senast {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      🌱 Uppdaterades senast {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
-   </div>
+  </div>
  </div>
 
   <div style="margin-bottom:5em;">
