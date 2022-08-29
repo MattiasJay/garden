@@ -13,6 +13,7 @@ Välkommen in i den här sidan med den tanken i bakhuvudet. Du kan börja var du
 
 Här är några några texter att börja med, från dem kan du hoppa vidare till fler:
 
-Good shit takes time
+[[Good shit takes time]]
+[[your first note]]
 
 
