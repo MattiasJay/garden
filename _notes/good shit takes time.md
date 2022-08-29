@@ -1,10 +1,8 @@
 ---
-title: Good shit takes tome
+title: Good shit takes time
 ---
 
-### Welcome!
-
-This is your first note. You'll find it in the [[your first note]] directory. 
+Det är klart att det tar tid. 
 
 ### Link syntax
 
