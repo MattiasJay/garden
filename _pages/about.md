@@ -15,6 +15,4 @@ Här är några några texter att börja med, från dem kan du hoppa vidare till
 
 [[Good shit takes time]]
 
-[[your first note]]
-
 
